@@ -89,7 +89,10 @@ button:hover {
   transform: scale(1.1);
 }
 button#equal {
-  height: 130px;
+  height: 60px;
+}
+button#point{
+  height: 60px;
 }
 /* light theme */
 .calculator {
